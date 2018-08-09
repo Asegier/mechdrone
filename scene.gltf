@@ -4758,25 +4758,25 @@
   ],
   "images": [
     {
-      "uri": "textures/Robot_emissive.jpeg"
+      "uri": "/Robot_emissive.jpeg"
     },
     {
-      "uri": "textures/Robot_occlusion.jpeg"
+      "uri": "/Robot_occlusion.jpeg"
     },
     {
-      "uri": "textures/Robot_diffuse.jpeg"
+      "uri": "/Robot_diffuse.jpeg"
     },
     {
-      "uri": "textures/Robot_specularGlossiness.png"
+      "uri": "/Robot_specularGlossiness.png"
     },
     {
-      "uri": "textures/Robot_normal.jpeg"
+      "uri": "/Robot_normal.jpeg"
     },
     {
-      "uri": "textures/Fire_diffuse.png"
+      "uri": "/Fire_diffuse.png"
     },
     {
-      "uri": "textures/Fire_emissive.jpeg"
+      "uri": "/Fire_emissive.jpeg"
     }
   ],
   "materials": [
